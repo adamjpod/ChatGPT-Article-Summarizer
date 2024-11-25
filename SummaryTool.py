@@ -32,5 +32,5 @@ def summarize_article(url):
         print(f"Error: {e}")
 
 
-url = input("Enter the article URL: ") # https://newsroom.bugatti.com/press-releases/the-new-bugatti-tourbillon-makes-its-debut
+url = input("Enter the article URL: ") 
 summarize_article(url)
